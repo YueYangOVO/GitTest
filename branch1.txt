@@ -1,2 +1,3 @@
 分支branch1.txt文件
 在branchTest分支上面添加 branch1文件
+通过在分支上添加内容，将其合并到主分支上面。
